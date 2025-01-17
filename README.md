@@ -4,6 +4,7 @@
 
 - <b>Azure Honeynet & SOC / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/DanielCyberSoc/Azure-Honeynet)
+  - [Basic Cloud Threat Detection Setup](https://github.com/DanielCyberSoc/wazuh-siem-threat-on-azure)
 
 <h2> 🤳 Connect with me:</h2>
 
